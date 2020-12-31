@@ -1,5 +1,3 @@
 # My-Profile
-TJHSST '21.  Part of the TJHSST neuro science research lab , would like to pursue career related to Biological engineering. 
-Completed two summer internship in ASSIP program in GMU in Bio engineering department, Currently involved in NIH funded Bio Imaging analytics. 
-I am a classial pianist with active interest in Basket Ball in Lacrosse.
+TJHSST '21. I'm an aspiring bioengineer-advocate. I'm currently involved in the TJHSST neuroscience research lab, where I'm conducting a project on multiple sclerosis protein biomarkers. I've completed two summer internship under ASSIP at George Mason University in Bioengineering departments and am currently involved in NIH-funded Bioimaging research. Apart from  my academic pursuits, I'm heavily involved in health presentations and literary outreach, piano (both pop and classical), and lacrosse.
 
